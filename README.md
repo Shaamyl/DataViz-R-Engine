@@ -4,7 +4,7 @@
 
 *Login page for DataViz*
 
-This repository contains documentation for the R Engine class, version 1, in DataViz app. 
+This repository contains documentation for the R Engine class, version 1, in the DataViz app. 
 
 DataViz is an app that visualizes user data by running R scripts on a back-end. The R Engine class creates the R scripts sent to the back-end.
 
