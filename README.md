@@ -6,7 +6,7 @@
 
 This repository contains documentation for the R Engine class, version 1, in the DataViz app. 
 
-DataViz is an app that visualizes user data by running R scripts on a back-end. The R Engine class creates the R scripts sent to the back-end.
+DataViz is an app that visualizes user data by running R scripts on a remote server. The R Engine class creates the R scripts sent to the back-end.
 
 
 View at: https://shaamyl.github.io/DataViz-R-Engine/DataVisalizer/package-summary.html
