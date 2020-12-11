@@ -1,4 +1,4 @@
-# DataViz-R-Engine
+# DataViz R Engine
 
 <img src="https://i.ibb.co/J3xb1gs/dataviz.jpg" alt="Landing Page DataViz" width="200"/>
 
